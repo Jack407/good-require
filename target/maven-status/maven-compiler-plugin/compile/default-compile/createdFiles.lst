@@ -1,0 +1,10 @@
+cn\edu\xmu\ooad\goods\require\IFreightModelService.class
+cn\edu\xmu\ooad\goods\require\IShareService.class
+cn\edu\xmu\ooad\goods\require\model\OrderSimple.class
+cn\edu\xmu\ooad\goods\require\model\TimeSegmentSimple.class
+cn\edu\xmu\ooad\goods\require\IFlashSaleService.class
+cn\edu\xmu\ooad\goods\require\ITimeSegmentService.class
+cn\edu\xmu\ooad\goods\require\ICommentService.class
+cn\edu\xmu\ooad\goods\require\model\FreightModelSimple.class
+cn\edu\xmu\ooad\goods\require\ICustomerService.class
+cn\edu\xmu\ooad\goods\require\model\CustomerSimple.class
